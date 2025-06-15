@@ -19,7 +19,7 @@
 
 // const fs = require("fs");
 
-// const content = fs.readFile("beyza.txt", "utf-8", (err, data) => {
+// const content = fs.readFile("random.txt", "utf-8", (err, data) => {
 //     if (err) {
 //         console.error(err);
 //         return;
@@ -27,7 +27,7 @@
 //     console.log(data);
 // });
 
-// console.log("Beyza lover");
+// console.log("random");
 
 console.log("Hi");
 
